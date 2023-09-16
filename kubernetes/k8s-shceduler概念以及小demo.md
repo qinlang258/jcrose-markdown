@@ -4,7 +4,7 @@
 
 **基于kubernetes-1.26.7/pkg/scheduler/framework/plugins 项目进行二次开发扩展**
 
-[1](https://github.com/qinlang258/jcrose-markdown/blob/main/images/1.png))](https://github.com/qinlang258/jcrose-markdown/blob/main/images/1.png)
+![1](https://github.com/qinlang258/jcrose-markdown/blob/main/images/1.png)
 
 调度 Pod 可以分为以下几个阶段：
 
