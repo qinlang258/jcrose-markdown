@@ -4,7 +4,7 @@
 
 **基于kubernetes-1.26.7/pkg/scheduler/framework/plugins 项目进行二次开发扩展**
 
-![在这里插入图片描述](https://img-blog.csdnimg.cn/7d15b45bc7344fef8c66acd1cc4a26ed.png?x-oss-process=image/watermark,type_d3F5LXplbmhlaQ,shadow_50,text_Q1NETiBAb25lc2xpZGU=,size_20,color_FFFFFF,t_70,g_se,x_16)
+![1](https://github.com/qinlang258/markdown/edit/main/kubernetes/images/1.png)
 
 调度 Pod 可以分为以下几个阶段：
 
